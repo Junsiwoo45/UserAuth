@@ -14,3 +14,6 @@
 ---
 ### Registration
 ![alt text](https://github.com/Junsiwoo45/UserAuth/blob/main/img/registration.PNG)
+---
+### Registration Error
+![](https://github.com/Junsiwoo45/UserAuth/blob/main/img/passwordsDontMatch.PNG)
