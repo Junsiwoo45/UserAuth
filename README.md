@@ -1,2 +1,2 @@
-# H1 UserAuth
+# UserAuth
 User Authentication with Salt
