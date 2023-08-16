@@ -3,6 +3,7 @@
 
 ---
 ## The purpose of this program is to 
+- the use of MERN
 - Create a username and password
 -	Make sure they reach the requirements for length
 -	Salt and hash the password for security 
